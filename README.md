@@ -1,6 +1,6 @@
 ## Hello, meu nome é Roberto 👋
 
-- 🔭 Trabalho com Java
+- 💪 Trabalho com Java
 - 💻 Estudando Java, Spring boot e React native
 
 <div>
