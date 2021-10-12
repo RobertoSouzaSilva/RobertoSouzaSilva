@@ -11,7 +11,7 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/d4ccc936312b3f1b5aab38832d28a0dfa8a7b8900a14cbd3837c595b84bfe187/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f68696265726e6174652f68696265726e6174652d69636f6e2e737667">
+   <img align="center" alt="CSS" height="20" width="40" src="https://camo.githubusercontent.com/d4ccc936312b3f1b5aab38832d28a0dfa8a7b8900a14cbd3837c595b84bfe187/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f68696265726e6174652f68696265726e6174652d69636f6e2e737667">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
    <img align="center" alt="JUnit" height="30" width="30" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67">
   <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
