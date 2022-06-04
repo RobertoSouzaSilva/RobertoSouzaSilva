@@ -1,7 +1,7 @@
 ## Hello, meu nome é Roberto 👋
 
 - 💪 Trabalho com Java
-- 💻 Estudando Java, Spring boot e React native
+- 💻 Foco nos estudos 
 
 <div>
   <a href="https://github.com/RobertoSouzaSilva">
